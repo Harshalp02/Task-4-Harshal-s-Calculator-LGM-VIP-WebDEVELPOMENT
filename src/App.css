@@ -1,0 +1,27 @@
+body {
+  background :linear-gradient(rgb(236, 67, 67) 2% , lightblue 130%);
+  padding: 37px 0 21px 0;
+  overflow: hidden;
+  
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height :fit-content;
+  align-items: center;
+  overflow: hidden;
+
+}
+
+.calc-wrapper {
+  background-color: rgb(236, 123, 219);
+  width: 400px;
+  border-radius: 16px;
+}
+
+.row {
+  display: flex;
+}
+
